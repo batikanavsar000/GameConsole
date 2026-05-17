@@ -63,4 +63,4 @@ SD Card Root
 <h><h>
 ![Görsel 7](gameconsole7.jpeg)
 <h><h>
-![Görsel 8](gameconsole8.jpeg)
+![Görsel 8](gameconsole8.png)

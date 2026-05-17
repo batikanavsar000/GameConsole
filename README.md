@@ -39,7 +39,7 @@ This project integrates custom SPI hardware drivers, matrix keypad scanning, and
 
 Format your micro SD card to **FAT16/FAT32**. Create an `images` root directory and place the 32x32 pixel 16-bit BMP sprite files inside using the exact naming structure below:
 
-```text
+text
 SD Card Root
 └── 📁 images
     ├── 📄 h1_r1.bmp, h1_r2.bmp, h1_r3.bmp  (İrem - 3 animation frames)
@@ -49,3 +49,18 @@ SD Card Root
     ├── 📄 h5_r1.bmp, h5_r2.bmp, h5_r3.bmp  (Azra - 3 animation frames)
     ├── 📄 h6_r1.bmp, h6_r2.bmp, h6_r3.bmp  (Ayça - 3 animation frames)
     └── 📄 h7_r1.bmp, h7_r2.bmp, h7_r3.bmp  (Arda - 3 animation frames)
+
+    
+![Görsel 2](gameconsole2.jpeg)
+<h><h>
+![Görsel 3](gameconsole3.jpeg)
+<h><h>
+![Görsel 4](gameconsole4.jpeg)
+<h><h>
+![Görsel 5](gameconsole5.jpeg)
+<h><h>
+![Görsel 6](gameconsole6.jpeg)
+<h><h>
+![Görsel 7](gameconsole7.jpeg)
+<h><h>
+![Görsel 8](gameconsole8.jpeg)
